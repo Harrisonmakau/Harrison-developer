@@ -17,7 +17,7 @@ I build **responsive, dynamic websites** and provide solutions across the full s
 ## 🌟 **Featured Projects**  
 
 ### **Live Projects**  
-1. **[Personal Portfolio](www.makau.great-site.net)** – Showcasing my work and skills.  *(HTML/CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL)* 
+1. **[Personal Portfolio](https://www.makau.great-site.net)** – Showcasing my work and skills.  *(HTML/CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL)* 
 2. **[Vehicle Loan Website](https://www.george-easygari.co.ke)** – A client project for loan management.  *(HTML/CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL)* 
 3. **[Bus Booking System](https://www.harrison.lovestoblog.com)** – Online ticket reservation platform. *(HTML/CSS, Bootstrap, JavaScript, jQuery, PHP, MySQL)*  
 
